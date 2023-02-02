@@ -6,3 +6,20 @@ p{
     color: brown;
     text-align: right;
 }
+.content{
+    background-color: grey;
+    padding:20px;
+    margin: 20px;
+    border-width: 20px;
+    border-color: black;
+    border-style: dotted;
+}
+.content h1{
+    color: red;
+}
+div h1{
+    font-size: 380%;
+    margin: 200px;
+    /* padding: 200px; */
+    text-align: center;
+}
